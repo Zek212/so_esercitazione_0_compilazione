@@ -62,7 +62,7 @@ void display(int arr[], int n)
     printf("\n");
 }
 
-#define N 50;
+#define N 50
 
 // Driver program to test above function
 int main()
